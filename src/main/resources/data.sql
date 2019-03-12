@@ -1,0 +1,1 @@
+insert into application_model values (1, 'priver s marsa');
